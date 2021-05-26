@@ -1,0 +1,14 @@
+C:\Projects 2-1 ис\MDI\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Projects 2-1 ис\MDI\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Projects 2-1 ис\MDI\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Projects 2-1 ис\MDI\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+C:\Projects 2-1 ис\MDI\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Projects 2-1 ис\MDI\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Projects 2-1 ис\MDI\Pharmacy\obj\Debug\Pharmacy.pdb
+C:\Users\comp0714\Desktop\Farma\Pharmacy\bin\Debug\Pharmacy.exe.config
+C:\Users\comp0714\Desktop\Farma\Pharmacy\bin\Debug\Pharmacy.exe
+C:\Users\comp0714\Desktop\Farma\Pharmacy\bin\Debug\Pharmacy.pdb
+C:\Users\comp0714\Desktop\Farma\Pharmacy\obj\Debug\Pharmacy.csprojAssemblyReference.cache
+C:\Users\comp0714\Desktop\Farma\Pharmacy\obj\Debug\Pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\comp0714\Desktop\Farma\Pharmacy\obj\Debug\Pharmacy.exe
+C:\Users\comp0714\Desktop\Farma\Pharmacy\obj\Debug\Pharmacy.pdb
